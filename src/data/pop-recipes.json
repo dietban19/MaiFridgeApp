@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Hawaiian Burger",
+      "category": "American",
+      "image": "./HawaiianBurger.jpg",
+      "rating": 4.8
+    },
+    {
+      "name": "Fries Salad",
+      "category": "Asian",
+      "image": "./FriesSalad.jpg",
+      "rating": 4.5
+    },
+    {
+      "name": "Basil Spaghetti",
+      "category": "Indian",
+      "image": "./BasilSpaghetti.jpg",
+      "rating": 4.6
+    }
+]
+  
